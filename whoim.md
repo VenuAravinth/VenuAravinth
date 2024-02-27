@@ -3,10 +3,10 @@
 💻 Currently, I'm immersed in the world of full-stack development, specializing in technologies like React.js for the frontend and Node.js for the backend. I enjoy building scalable and user-friendly web applications.
 
 🚀 My tech stack includes:
-   - Frontend: React.js, HTML, CSS, JavaScript
-   - Backend: Node.js, Express.js
-   - Database: MongoDB, MySQL
-   - Version Control: Git, GitHub
+   - Frontend: React.js, HTML, CSS, JavaScript, Jquery
+   - Backend: Node.js, Express.js, PHP
+   - Database: MongoDB, MySQL, Postgresql
+   - Version Control: Git, GitHub, GitLab
 
 🌐 Outside of coding, I'm fascinated by emerging technologies, open-source contributions, and continuous learning. You can find me exploring the latest tech trends or collaborating on exciting projects.
 
