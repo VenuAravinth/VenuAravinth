@@ -1,4 +1,4 @@
-👋 Hello World! I'm [Your Name], a passionate software developer with a love for clean code and creative problem-solving.
+👋 Hello World! I'm Venu Aravinth, a passionate software developer with a love for clean code and creative problem-solving.
 
 💻 Currently, I'm immersed in the world of full-stack development, specializing in technologies like React.js for the frontend and Node.js for the backend. I enjoy building scalable and user-friendly web applications.
 
